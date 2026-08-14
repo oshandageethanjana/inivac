@@ -1,4 +1,4 @@
-
+INIVAC Premium Homepage V8
 
 Update:
 - Removed the fixed boxed-page feeling.
@@ -8,8 +8,10 @@ Update:
 - Updated desktop, tablet and mobile layouts.
 
 
+V14 inner pages added:
 - about.html
 - services.html
 - careers.html
 - contact.html
-
+- assets/css/inner-pages.css
+- team images cropped from the supplied legacy About page screenshot
